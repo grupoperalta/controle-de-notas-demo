@@ -1,3 +1,3 @@
 Controle de Notas, demonstração online
-publicado: 2026-11-06 19:57
-sha256 index.html: 8706d8693f723b938699516453c746f8ca2880afda0d6c2a7e4d323cb99f4be8
+publicado: 2026-11-06 22:17
+sha256 index.html: 4fa12f1e8eac3a1eb92916a0ae5c23768f7f60b087740975fdc442e70f65a21b
